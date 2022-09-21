@@ -1,0 +1,15 @@
+# Logs
+/logs
+*.log
+
+# Coverage directory used by tools like istanbul
+/coverage
+
+# Dependency directories
+node_modules
+.env
+/.pnp
+.pnp.js
+
+# Compiled sanity studio
+/dist
